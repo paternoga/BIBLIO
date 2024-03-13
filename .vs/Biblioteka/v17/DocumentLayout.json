@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|c:\\users\\xdpat\\source\\repos\\biblioteka\\biblioteka\\mainwindowuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\mainwindowuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|c:\\users\\xdpat\\source\\repos\\biblioteka\\biblioteka\\loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\loginscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|c:\\users\\xdpat\\source\\repos\\biblioteka\\biblioteka\\loginscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\loginscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|C:\\Users\\xdpat\\source\\repos\\Biblioteka\\biblioteka\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xdpat\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|c:\\users\\xdpat\\source\\repos\\biblioteka\\biblioteka\\registerscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\registerscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|c:\\users\\xdpat\\source\\repos\\biblioteka\\biblioteka\\registerscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\registerscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|c:\\users\\xdpat\\source\\repos\\biblioteka\\biblioteka\\mvvm\\view\\listofusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\mvvm\\view\\listofusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|C:\\Users\\xdpat\\source\\repos\\Biblioteka\\biblioteka\\mvvm\\view\\listofusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\mvvm\\view\\listofusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|C:\\Users\\xdpat\\source\\repos\\Biblioteka\\biblioteka\\mvvm\\view\\dodajuzytkownika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\mvvm\\view\\dodajuzytkownika.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|C:\\Users\\xdpat\\source\\repos\\Biblioteka\\biblioteka\\mvvm\\view\\dodajuzytkownika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\mvvm\\view\\dodajuzytkownika.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|C:\\Users\\xdpat\\source\\repos\\Biblioteka\\biblioteka\\mvvm\\view\\homeadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\mvvm\\view\\homeadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|C:\\Users\\xdpat\\source\\repos\\Biblioteka\\biblioteka\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B962E22E-F6A9-4CF8-B89E-186C96E0A566}|Biblioteka\\Biblioteka.csproj|solutionrelative:biblioteka\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\xdpat\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\xdpat\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs[Tylko do odczytu]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs[Tylko do odczytu]",
+              "ViewState": "AQIAABQAAAAAAAAAAAArwCcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:49:21.11Z",
+              "EditorCaption": "[Tylko do odczytu]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\LoginScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\LoginScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\LoginScreen.xaml.cs",
+              "RelativeToolTip": "Biblioteka\\LoginScreen.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:47:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowUser.xaml",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MainWindowUser.xaml",
+              "RelativeDocumentMoniker": "Biblioteka\\MainWindowUser.xaml",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MainWindowUser.xaml",
+              "RelativeToolTip": "Biblioteka\\MainWindowUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T20:43:57.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\RegisterScreen.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\RegisterScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\RegisterScreen.xaml.cs",
+              "RelativeToolTip": "Biblioteka\\RegisterScreen.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:39:21.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DodajUzytkownika.xaml",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\DodajUzytkownika.xaml",
+              "RelativeDocumentMoniker": "Biblioteka\\MVVM\\View\\DodajUzytkownika.xaml",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\DodajUzytkownika.xaml",
+              "RelativeToolTip": "Biblioteka\\MVVM\\View\\DodajUzytkownika.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T19:24:54.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DodajUzytkownika.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\DodajUzytkownika.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\MVVM\\View\\DodajUzytkownika.xaml.cs",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\DodajUzytkownika.xaml.cs",
+              "RelativeToolTip": "Biblioteka\\MVVM\\View\\DodajUzytkownika.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:22:58.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\LoginScreen.xaml",
+              "RelativeDocumentMoniker": "Biblioteka\\LoginScreen.xaml",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\LoginScreen.xaml",
+              "RelativeToolTip": "Biblioteka\\LoginScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T19:05:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeAdmin.xaml",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\HomeAdmin.xaml",
+              "RelativeDocumentMoniker": "Biblioteka\\MVVM\\View\\HomeAdmin.xaml",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\HomeAdmin.xaml",
+              "RelativeToolTip": "Biblioteka\\MVVM\\View\\HomeAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T19:00:42.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListOfUsers.xaml",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\ListOfUsers.xaml",
+              "RelativeDocumentMoniker": "Biblioteka\\MVVM\\View\\ListOfUsers.xaml",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\ListOfUsers.xaml",
+              "RelativeToolTip": "Biblioteka\\MVVM\\View\\ListOfUsers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListOfUsers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\ListOfUsers.xaml.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\MVVM\\View\\ListOfUsers.xaml.cs",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\MVVM\\View\\ListOfUsers.xaml.cs",
+              "RelativeToolTip": "Biblioteka\\MVVM\\View\\ListOfUsers.xaml.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAtwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:20:49.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "Biblioteka\\Core\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "Biblioteka\\Core\\ObservableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:48:50.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterScreen.xaml",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\RegisterScreen.xaml",
+              "RelativeDocumentMoniker": "Biblioteka\\RegisterScreen.xaml",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\RegisterScreen.xaml",
+              "RelativeToolTip": "Biblioteka\\RegisterScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T14:10:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\App.xaml",
+              "RelativeDocumentMoniker": "Biblioteka\\App.xaml",
+              "ToolTip": "C:\\Users\\xdpat\\source\\repos\\Biblioteka\\Biblioteka\\App.xaml",
+              "RelativeToolTip": "Biblioteka\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T11:37:44.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
